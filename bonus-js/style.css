@@ -30,8 +30,8 @@ header{
 #grid{
     border: 1px solid black;
     width: 40%;
-    display: flex;
     flex-wrap: wrap;
+    display: none;
 }
 
 .box-easy{
